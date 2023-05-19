@@ -2,7 +2,7 @@
 
 > 컴퓨터 하드웨어 윗단에 설치되는 일종의 소프트웨어로 사용자 및 다른 모든 소프트웨어와 하드웨어를 연결하는 소프트웨어 계층
 
-<img src="./Ref_Picture/Ch01/img.png">
+<img src="Ref_Picture/Ch01/img.png">
 
 ### 협의의 운영체제(커널)
 
@@ -69,7 +69,7 @@
 
     사용자가 컴퓨터로부터 서비스를 제공 받는 시간을 숫자로 표시(키보드를 치면 바로 응답이 오는 기분)
 
-    <img src="./Ref_Picture/Ch01/img_1.png">
+    <img src="Ref_Picture/Ch01/img_1.png">
 
 - 실시간 (Realtime OS)
 
@@ -109,7 +109,7 @@
 
 ## 운영체제의 구조
 
-<img src="./Ref_Picture/Ch01/img_2.png">
+<img src="Ref_Picture/Ch01/img_2.png">
 
 - CPU, cpu 스케줄링 ⇒ 누구에게 cpu를 줄 것인가?
     - 굉장히 빠름. 순서대로 작업 실행x
