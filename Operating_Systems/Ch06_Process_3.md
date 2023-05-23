@@ -6,6 +6,7 @@
 ## Multi thread
 - registers, stack은 별도로 각각 1개씩 있음
 
+
 ## Thread의 단점
 - 자원의 공유로 인한 동기화 문제가 발생할 수 있음
 - 디버깅이 까다로움
