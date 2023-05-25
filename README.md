@@ -2,9 +2,27 @@
 운영체제 CS 스터디 (2023. 05. 04 ~ )
 
 ## 🙋🏻‍♂️ 스터디 참여 인원 🙋🏻‍♀️
-|[![](https://github.com/IToriginal.png?size=80)](https://github.com/IToriginal)| [![](https://github.com/byeongJoo05.png?size=80)](https://github.com/byeongJoo05) |[![](https://github.com/kkkwp.png?size=80)](https://github.com/kkkwp)|[![](https://github.com/jooh9992.png?size=80)](https://github.com/jooh9992)|[![](https://github.com/dongkiid.png?size=80)](https://github.com/dongkiid) |
-|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|                                      헌욱                                       |                                        병주                                         |                                 채윤                                  |                                    주형                                     |                                     민서                                     |
+
+<table>
+  <tbody>
+    <tr>
+      <tr>
+      <td align="center"><a href="https://github.com/IToriginal"><img src="https://github.com/IToriginal.png" width="100px;" alt=""/></td>
+      <td align="center"><a href="https://github.com/byeongJoo05"><img src="https://github.com/byeongJoo05.png" width="100px;" alt=""/></td>
+      <td align="center"><a href="https://github.com/kkkwp"><img src="https://github.com/kkkwp.png" width="100px;" alt=""/></td>
+      <td align="center"><a href="https://github.com/jooh9992"><img src="https://avatars.githubusercontent.com/u/54580802?v=4" width="100px;" alt=""/></td>
+      <td align="center"><a href="https://github.com/dongkiid"><img src="https://github.com/dongkiid.png" width="100px;" alt=""/></td>
+      </tr>
+      <tr>
+      <td align="center"><a href="https://github.com/IToriginal">헌욱</td>
+      <td align="center"><a href="https://github.com/byeongJoo05">병주</td>
+      <td align="center"><a href="https://github.com/kkkwp">채윤</td> 
+      <td align="center"><a href="https://github.com/jooh9992">주형</td> 
+      <td align="center"><a href="https://github.com/dongkiid">민서</td> 
+      </tr>
+    </tr>
+  </tbody>
+</table>
 
 ## ⏰ 스터디 일정 및 규칙
 - 시간: 매주 목요일 10:00 ~ 13:00
