@@ -22,6 +22,10 @@ bit가 invalid인 경우 페이지가 물리적 메모리에 없다는 것이다
 
 ## Page Fault
 
+위키피디아에는 아래와 같이 정의하고 있다.
+> 컴퓨팅에서 페이지 오류 ( PF 또는 하드 오류 라고도 함 ).
+> 프로세스가 적절한 준비 없이 메모리 페이지 에 액세스할 때 메모리 관리 장치 (MMU) 에서 발생하는 예외 입니다 .
+
 Invalid page를 접근하면, MMU(Memory Management Unit: 메모리 관리 장치)가 trap을 발생시키게 된다.
 
 Kernel mod로 들어가서 page fault handler가 invoke된다.
